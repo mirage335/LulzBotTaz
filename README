@@ -1,0 +1,9 @@
+Master repository for mirage335's LulzBot Taz related open-source documentation, software, CAD models, and circuit designs.
+
+_Usage_
+Please checkout with "git pull --recurse-submodules" and "git submodule update --recursive".
+
+_MoreInformation_
+Please visit the relevant wiki pages for further details with photos.
+
+http://mirage335-site.member.hacdc.org:6380/wiki/Category:LulzBotTaz

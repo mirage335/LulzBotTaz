@@ -1,0 +1,21 @@
+Supplies - https://github.com/mirage335/CNCsupplies
+Laser - https://github.com/mirage335/LulzBotTaz_Laser
+BuildPlatform - https://github.com/mirage335/LulzBotTaz_BuildPlatform
+CNCcainet - https://github.com/mirage335/CNCcabinet
+RigidTable - https://github.com/mirage335/RigidTable
+Softload - https://github.com/mirage335/LulzBotTaz_Softload
+Firmware - https://github.com/mirage335/Marlin
+
+GEDA Support - https://github.com/mirage335/gedaProduction
+
+git submodule add https://github.com/mirage335/CNCsupplies
+git submodule add https://github.com/mirage335/LulzBotTaz_Laser LaserTool
+git submodule add https://github.com/mirage335/LulzBotTaz_BuildPlatform BuildPlatform
+
+git submodule add https://github.com/mirage335/RigidTable
+git submodule add https://github.com/mirage335/CNCcabinet
+
+git submodule add https://github.com/mirage335/LulzBotTaz_Softload Software
+git submodule add https://github.com/mirage335/Marlin Firmware
+
+git submodule add https://github.com/mirage335/gedaProduction
