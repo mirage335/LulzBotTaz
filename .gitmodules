@@ -1,0 +1,24 @@
+[submodule "CNCsupplies"]
+	path = CNCsupplies
+	url = https://github.com/mirage335/CNCsupplies
+[submodule "LaserTool"]
+	path = LaserTool
+	url = https://github.com/mirage335/LulzBotTaz_Laser
+[submodule "BuildPlatform"]
+	path = BuildPlatform
+	url = https://github.com/mirage335/LulzBotTaz_BuildPlatform
+[submodule "RigidTable"]
+	path = RigidTable
+	url = https://github.com/mirage335/RigidTable
+[submodule "CNCcabinet"]
+	path = CNCcabinet
+	url = https://github.com/mirage335/CNCcabinet
+[submodule "Software"]
+	path = Software
+	url = https://github.com/mirage335/LulzBotTaz_Softload
+[submodule "Firmware"]
+	path = Firmware
+	url = https://github.com/mirage335/Marlin
+[submodule "gedaProduction"]
+	path = gedaProduction
+	url = https://github.com/mirage335/gedaProduction
